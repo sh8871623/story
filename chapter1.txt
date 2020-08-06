@@ -1,0 +1,10 @@
+The circle constant
+The Tau Manifesto is dedicated to one of the most important numbers in mathematics, perhaps the 
+most important: the circle constant relating the circumference of a circle to its linear dimension. 
+For millennia, the circle has been considered the most perfect of shapes, and the circle constant captures 
+the geometry of the circle in a single number. Of course, the traditional choice for the circle constant is π—but,
+ as mathematician Bob Palais notes in his delightful article “π Is Wrong!”,1 π is wrong. It’s time to set things right.
+
+(Note: Mathematically sophisticated readers, including those already familiar with The Tau Manifesto, can 
+skip directly to Section 5, which is part of a revision released on Tau Day, 2012. This new section builds an 
+irrefutable case against π.)
